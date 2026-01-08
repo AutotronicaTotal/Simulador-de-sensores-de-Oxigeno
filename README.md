@@ -1,6 +1,7 @@
 Este repositorio contiene los codigos realizados por Miguel Cruz para desarrollar prototipos y proyectos del area automotriz basicamente son: 
 
 a) Probadores de actuadores automotrices.
+
 b) Simuladores de sensores automotrices.
 
 El IDE utilizado es Arduino en la version 1.8.19. 
