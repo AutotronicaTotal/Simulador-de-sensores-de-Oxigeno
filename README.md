@@ -25,4 +25,12 @@ Las señales que genera son las siguientes y se agrega el color que indica la se
 5. Sensor postcatalizador - Led en color violeta
 
 Estas son las señales generadas:
+
 [Teoria - Simulador de sensor de oxigeno con Arduino AT.pdf](https://github.com/user-attachments/files/24493687/Teoria.-.Simulador.de.sensor.de.oxigeno.con.Arduino.AT.pdf)
+
+
+Para ver la clase mire este video en YouTube:
+
+https://youtu.be/TBzJz8DfGxk?si=PNv6lD1CVS4q3ZFj
+
+¡¡Que disfrute haciendo su simulador y no olvide dar credito a su creador que eso no cuesta nada!!
