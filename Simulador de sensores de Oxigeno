@@ -1,0 +1,7 @@
+Simulador de sensor de O2 v1
+Este codigo es para simular la señal del sensor de oxigeno planar de 4 cables.
+Para mas referencia vea este video de YouTube: 
+
+https://youtu.be/TBzJz8DfGxk?si=H4yuDblJh5B9Izst
+
+El codigo que se que se sube es el que se utiliza para hacer el proyecto mostrado en el video, tambien se sube la libreria para poder utilizar el DAC.
